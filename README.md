@@ -1,4 +1,4 @@
-# Agent UI Design
+# 如何教沙雕 GPT 做设计（Agent UI Design）
 
 面向 AI Agent 与独立开发者的工业级 UI 设计工作流与 Prompt 系统。
 
