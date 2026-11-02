@@ -1,4 +1,4 @@
-# 如何教沙雕 GPT 做设计（Agent UI Design）
+# 烧掉 1000 亿 token 之后，我终于教会了 GPT 做设计（Agent UI Design）
 
 面向 AI Agent 与开发者的 UI 设计工作流与 Prompt 仓库。
 
