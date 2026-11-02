@@ -50,7 +50,7 @@
 ## 使用方式
 
 ### 方式一：直接复制 Prompt 使用
-适用于任何 AI 对话或编程工具（ChatGPT、Codex、Claude、Claude Code、Cursor 等）：
+适用于任何 AI 工具（Codex、Claude、Claude Code、Cursor 等）：
 1. 复制 `01-requirement-tree.md`，输入你的业务功能，确认页面字段清单；
 2. 复制 `02-ascii-wireframe.md`，生成并调整 ASCII 文本原型；
 3. 复制 `03-ui-design-system.md`，先让 AI 输出黑白灰页面，确认无误后再加颜色和组件细节。
